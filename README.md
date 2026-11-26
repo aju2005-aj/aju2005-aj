@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ajnas.space/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/0A66C2" height="32" alt="Portfolio" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ajnas-208340245/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/ajnasaju894" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" alt="LeetCode" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ajnasaju894@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ajnas.space/src/documents/resumeAjnas.pdf" title="Resume"><img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" height="32" alt="Resume" /></a>
+  <a href="https://ajnas.space/" title="Portfolio"><img src="./assets/aj.svg" height="44" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ajnas-208340245/" title="LinkedIn"><img src="./assets/linkedin.svg" height="44" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/ajnasaju894" title="LeetCode"><img src="./assets/leetcode.svg" height="44" alt="LeetCode" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ajnasaju894@gmail.com" title="Email"><img src="./assets/email.svg" height="44" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://aju2005-aj.github.io/resumeAjnas/resumeAjnas.pdf" title="Resume"><img src="./assets/resume.svg" height="44" alt="Resume" /></a>
 </p>
 
 ---
